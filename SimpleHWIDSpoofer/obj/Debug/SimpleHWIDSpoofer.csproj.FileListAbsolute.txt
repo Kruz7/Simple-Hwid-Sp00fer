@@ -1,0 +1,10 @@
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\bin\Debug\SimpleHWIDSpoofer.exe.config
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\bin\Debug\SimpleHWIDSpoofer.exe
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\bin\Debug\SimpleHWIDSpoofer.pdb
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.csproj.AssemblyReference.cache
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.MainForm.resources
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.Properties.Resources.resources
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.csproj.GenerateResource.cache
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.exe
+C:\Users\kruzh\OneDrive\Desktop\C++\SimpleHWIDSpoofer\obj\Debug\SimpleHWIDSpoofer.pdb
